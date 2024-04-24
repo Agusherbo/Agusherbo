@@ -3,7 +3,7 @@
 </div>
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- ❤️ &nbsp; Passionate about food, data science and techbology 
+- ❤️ &nbsp; Passionate about food, data science and techbology. 
 - 🎓 &nbsp; Degree in Food Science and Technology at the University of Buenos Aires. Now, studying Data Science at SoyHenry.  
 - 💼 &nbsp; Open to new job opportunities and collaborative projects data related.
 - 🌱 &nbsp; I am in continuous training and learning new technologies.
