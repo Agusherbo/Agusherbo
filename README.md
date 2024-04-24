@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi 👋, I'm Agustin Herbozo 🚀</h2>
+  <h2> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Agustin Herbozo 🚀</h2>
 </div>
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
