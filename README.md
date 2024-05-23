@@ -51,8 +51,10 @@
 <p align="center">
 <h3> 🤝🏻 &nbsp;Social: </h3>
 <a href="https://www.linkedin.com/in/agustin-herbozo-1a3b7111b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
+  
+📧 Correo electrónico: heerbozo@gmail.com
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=Ivan2125&style=for-the-badge&color=55acb7&label=VISITANTES"/>
 </div>
+
 
